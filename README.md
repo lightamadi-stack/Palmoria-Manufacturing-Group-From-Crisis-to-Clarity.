@@ -7,7 +7,7 @@
 As requested by the CHRO, I conducted a comprehensive analysis of Palmoria Manufacturing Group’s employee data to address concerns around **gender inequality**, **pay structure**, and **regulatory compliance**. This project leveraged HR analytics and Power BI to uncover critical insights and provide actionable recommendations.
 
 ### Sample Overview Dashboard
-![Palmoria Overview](Plamoria Analytics 1.png)
+![Palmoria Overview](PlamoriaAnalytics1.png)
 
 ## 🔑 Key Insights
 1. **Gender Distribution**
