@@ -46,7 +46,7 @@ As requested by the CHRO, I conducted a comprehensive analysis of Palmoria Manuf
 
 ## 📊 Project Deliverables
 - **Power BI Dashboard**: Interactive visualization of workforce demographics, pay structure, and compliance risks.  
-  👉 [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmM3MDE1ZTctNDhiZS00OGIxLTkxMDgtZjhkNWYyYmU2MDZmIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)
+  👉 [View Palmoria Live Dashboard and interact with it](https://app.powerbi.com/view?r=eyJrIjoiZmM3MDE1ZTctNDhiZS00OGIxLTkxMDgtZjhkNWYyYmU2MDZmIiwidCI6IjAyMDk2OWQ5LTgyNzMtNGVjOC05Y2YyLTMzYTU1NWM1YmFhMiJ9)
 
 ## 🛠️ Skills & Tools
 - **HR Analytics**
