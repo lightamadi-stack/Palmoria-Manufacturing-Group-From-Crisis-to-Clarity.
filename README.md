@@ -56,3 +56,13 @@ As requested by the CHRO, I conducted a comprehensive analysis of Palmoria Manuf
 
 ## 📌 Key Takeaway
 This project highlights how **data-driven HR analytics** can uncover compliance risks, promote diversity, and guide equitable compensation strategies. It demonstrates the importance of aligning workforce policies with both **regulatory standards** and **organizational values**.
+
+---
+
+---
+
+## 👤 Author
+
+**Light Amadi**  
+Palmoria Manufacturing Group Project   
+🌐 [www.linkedin.com/in/light-a-942628360]
