@@ -65,4 +65,4 @@ This project highlights how **data-driven HR analytics** can uncover compliance 
 
 **Light Amadi**  
 Palmoria Manufacturing Group Project   
-🌐 [www.linkedin.com/in/light-a-942628360]
+🌐 [www.linkedin.com/in/light-amadi-942628360]
